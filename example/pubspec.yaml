@@ -1,5 +1,5 @@
-name: flutter_screen_info_example
-description: Demonstrates how to use the flutter_screen_info plugin.
+name: voltron_screen_info_example
+description: Demonstrates how to use the voltron_screen_info plugin.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -18,9 +18,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_screen_info:
+  voltron_screen_info:
     # When depending on this package from a real application you should use:
-    #   flutter_screen_info: ^x.y.z
+    #   voltron_screen_info: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints
     # The example app is bundled with the plugin so we use a path dependency on
     # the parent directory to use the current plugin's version.

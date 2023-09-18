@@ -1,4 +1,4 @@
-# flutter_screen_info
+# voltron_screen_info
 
 A new Flutter plugin project.
 

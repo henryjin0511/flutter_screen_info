@@ -1,4 +1,4 @@
-group 'com.example.flutter_screen_info'
+group 'com.example.voltron_screen_info'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -41,6 +41,6 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 21
     }
 }

@@ -1,6 +1,6 @@
-# flutter_screen_info_example
+# voltron_screen_info_example
 
-Demonstrates how to use the flutter_screen_info plugin.
+Demonstrates how to use the voltron_screen_info plugin.
 
 ## Getting Started
 

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_screen_info_example">
+    package="com.example.voltron_screen_info_example">
    <application
-        android:label="flutter_screen_info_example"
+        android:label="voltron_screen_info_example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

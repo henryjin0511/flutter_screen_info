@@ -1,11 +1,12 @@
-name: flutter_screen_info
-description: A new Flutter plugin project.
+name: voltron_screen_info
+description: Screen Info Plugin for Voltron
 version: 0.0.1
-homepage:
+homepage: https://github.com/henryjin0511/voltron_screen_info
+repository: https://github.com/henryjin0511/voltron_screen_info
 
 environment:
-  sdk: '>=2.18.4 <3.0.0'
-  flutter: ">=2.5.0"
+  sdk: '>=2.18.4 <4.0.0'
+  flutter: ">=3.3.8"
 
 dependencies:
   flutter:
@@ -35,10 +36,10 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.flutter_screen_info
-        pluginClass: FlutterScreenInfoPlugin
+        package: com.example.voltron_screen_info
+        pluginClass: VoltronScreenInfoPlugin
       ios:
-        pluginClass: FlutterScreenInfoPlugin
+        pluginClass: VoltronScreenInfoPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
